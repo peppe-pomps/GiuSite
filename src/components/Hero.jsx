@@ -31,7 +31,6 @@ const Hero = () => {
         </div>
       </div>
 
-      <CakeCanvas/>
 
       <div className="scroll-down-arrow-container">
         <a href="#registration">
