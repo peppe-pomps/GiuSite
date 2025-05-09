@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft - Cake
+* source:	https://sketchfab.com/3d-models/minecraft-cake-36a900d5c93a4ad4a5f341ec221b3aab
+* author:	Pizza?.. (https://sketchfab.com/PizzaFK)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft - Cake" (https://sketchfab.com/3d-models/minecraft-cake-36a900d5c93a4ad4a5f341ec221b3aab) by Pizza?.. (https://sketchfab.com/PizzaFK) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
