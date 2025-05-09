@@ -6,7 +6,6 @@ const App = () => {
   return (
     <BrowserRouter>
       <div>
-        <StarsCanvas />
         <div className="hero-container">
           <Hero />
         </div>

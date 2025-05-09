@@ -31,7 +31,6 @@ const Hero = () => {
         </div>
       </div>
 
-
       <div className="scroll-down-arrow-container">
         <a href="#registration">
           <motion.div 
